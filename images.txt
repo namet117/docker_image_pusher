@@ -1,4 +1,3 @@
-nginx
 xhofe/alist
 --platform=linux/arm64 xiaoyaliu/alist
 jellyfin/jellyfin
