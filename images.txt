@@ -1,4 +1,6 @@
 nginx
-kasmweb/nginx:1.25.3
-xhofe/alist:latest
+xhofe/alist
 --platform=linux/arm64 xiaoyaliu/alist
+jellyfin/jellyfin
+photoprism/photoprism
+mariadb
