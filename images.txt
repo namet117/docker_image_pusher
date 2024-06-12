@@ -3,3 +3,4 @@ xhofe/alist
 jellyfin/jellyfin
 photoprism/photoprism
 mariadb
+portainer/portainer-ce:2.20.3-alpine
